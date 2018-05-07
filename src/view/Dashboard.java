@@ -311,7 +311,6 @@ public Dashboard(Stage primaryStage, User user) {
 				user.getUsername(),
 				tournamentFormat,
 				cbCurrency.getValue().toString(),
-				selectedRadioButton.getText().toString(),
 				Double.parseDouble(tfResult.getText().toString()));
 				
 				

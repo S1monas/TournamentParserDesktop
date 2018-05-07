@@ -29,7 +29,7 @@ public class Tournament {
 		this.result = result;
 	}
 
-	public Tournament (String game, String user, String format, String currency, String buyin, double result) {
+	public Tournament (int gameid, String game, String user, String format, String currency, String buyin, double result) {
 		this.gameid = gameid;
 		this.game = game;
 		this.user = user;
