@@ -1,7 +1,8 @@
 # TournamentParserDesktop
 TournamentParserDesktop - desktop versija, su duombaze ant local host, skirta registruoti turnyrams.
 
-Panaudotos technologijos: JAVA,JAVAFX,JDBC,CRUD,MVC,MYSQL,CSS.
+Panaudotos technologijos: 
+JAVA,JAVAFX,JDBC,CRUD,MVC,MYSQL,CSS.
 
 Programos funkcionalumai:
 
